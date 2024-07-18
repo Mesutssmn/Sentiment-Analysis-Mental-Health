@@ -9,7 +9,7 @@
     
 <li> Some analysis and statistics</li>
     
-<li> ML, ANN
+<li> ML, ANN(will coming soon!)
     
     
 
