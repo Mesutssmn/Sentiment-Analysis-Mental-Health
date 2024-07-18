@@ -24,5 +24,3 @@ This comprehensive dataset is a meticulously curated collection of mental health
 <div style="border-radius: 10px; overflow: hidden; text-align: center;">
     <img src="https://cdn.prod.website-files.com/614c82ed388d53640613982e/64f7989c55786e5b4de9b9cb_sentiment-analysis-explained.webp" alt="Sentiment" width="900"></div>
 </div>
-
-   ##### Thank you for taking the time to read. Please don't ignore voting.
